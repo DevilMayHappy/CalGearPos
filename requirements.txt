@@ -1,0 +1,5 @@
+numpy>=1.25.0
+opencv_python>=4.8.0.74
+PyQt6>=6.6.1
+PyQt6_sip>=13.5.2
+qt_material>=2.14
